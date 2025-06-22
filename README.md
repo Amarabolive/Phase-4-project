@@ -23,7 +23,7 @@ This project uses three datasets published by City of Chicago (https://data.city
 
 ## Project Structure
 ```
-├── student.ipynb     # Main analysis notebook
+├── Model Interpretability.ipynb     # Main analysis notebook
 ├── README.md         # Project documentation
 └── /data             # Source datasets
 ```
