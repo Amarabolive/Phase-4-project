@@ -49,7 +49,7 @@ Evaluation: classification_report, accuracy_score, confusion_matrix
 - on bash
 - Copy code
 - git clone <https://github.com/Amarabolive/Phase-4-project>
-- Run student.ipynb in Jupyter Notebook or any other compatible IDE.
+- Run Model Interpretability.ipynb in Jupyter Notebook or any other compatible IDE.
 
 ## Conclusion
 
